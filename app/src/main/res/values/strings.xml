@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Breathe Easier</string>
+    <string name="title_activity_welcome"> Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="sign_in">SIGN-IN</string>
+    <string name="title_activity_navigation">Breathe Easier</string>
+
+
+    <string name="slide_1_title">Hello!</string>
+    <string name="slide_1_desc">Welcome to BreathEasy</string>
+
+    <string name="slide_2_title">SC-ADAR</string>
+    <string name="slide_2_desc">South Carolina - Advancing Diversity in Aging Research</string>
+
+    <string name="slide_3_title">University of South Carolina</string>
+    <string name="slide_3_desc">College of Social Work, College of Nursing</string>
+
+    <string name="slide_4_title">University of South Carolina</string>
+    <string name="slide_4_desc">College of Engineering and Computing</string>
+
+    <string name="play_again_desc">To see welcom slider again, goto Settings -> apps -> welcome slider -> clear data </string>
+    <string name="play_again">Play Again</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

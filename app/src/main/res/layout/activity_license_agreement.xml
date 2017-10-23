@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="uofsc.com.breatheeasier2.licenseAgreement"
+    android:background="@color/backgroundColor">
+
+    <TextView
+        android:id="@+id/tvLicenseAgreement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="License Agreement"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:textAlignment="center"
+        android:textSize="20dp"/>
+
+    <CheckBox
+        android:id="@+id/cbLicenseAgreement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="By checking this box you agree to our License agreement and privacy policy"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/svLicenseAgreement"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnAgree"
+        android:layout_width="353dp"
+        android:layout_height="48dp"
+        android:text="Proceed to the app"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/cbLicenseAgreement"
+        android:layout_marginRight="16dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginLeft="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:background="@drawable/custom_button"
+        android:textColor="@android:color/white"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:enabled="false"/>
+
+    <ScrollView
+        android:id="@+id/svLicenseAgreement"
+        android:layout_width="391dp"
+        android:layout_height="468dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="22dp"
+        android:background="@drawable/box_outline"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvLicenseAgreement">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+
+            <TextView
+                android:id="@+id/tvLicenseAgreement2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:ems="12"
+                android:inputType="textMultiLine"
+                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultricies eros non neque congue, at consequat mi dignissim. Proin urna erat, interdum eu urna vitae, tempus vehicula lacus. Suspendisse dictum, turpis sed vulputate blandit, lectus eros pulvinar magna, at malesuada velit metus quis odio. Maecenas dolor magna, convallis sed congue vel, dictum a sem. Nulla ullamcorper neque sit amet interdum cursus. Vivamus et diam id nisi venenatis sagittis. Praesent tristique convallis nisi a consectetur. Vivamus congue condimentum justo, ultricies sagittis augue tincidunt et. Nam ultrices, urna a faucibus sollicitudin, nulla risus viverra turpis, vitae laoreet nibh dui et ante. Donec vel velit ac nisi dapibus rutrum eu sit amet justo. Nullam cursus arcu iaculis lorem pulvinar fermentum. Aliquam id diam ut eros fermentum pharetra.
+Curabitur sed maximus elit. Quisque mattis augue ultricies metus tincidunt lobortis. Pellentesque fringilla elit bibendum est lobortis, in convallis libero rhoncus. Aliquam maximus eu ligula nec congue. Etiam mollis quis odio at imperdiet. Pellentesque non sapien fermentum, mattis lectus et, vestibulum velit. Aenean cursus arcu id sapien pellentesque, sit amet finibus magna porttitor. Pellentesque ultricies a elit vitae condimentum. Morbi lacinia venenatis convallis.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nisl massa, rhoncus at egestas eget, aliquam sit amet diam. Vivamus ut fermentum turpis. Donec est diam, finibus nec urna in, aliquet accumsan libero. Nunc tincidunt neque eu iaculis auctor. Nam maximus enim vitae libero sollicitudin tempus. Donec varius egestas fringilla. Ut ut tortor ante. Nunc nisl nulla, sagittis auctor egestas in, ultrices at odio. Vivamus vehicula convallis dolor eu iaculis. Fusce porttitor dui nec metus ornare sodales. Donec elementum nunc nec mi sodales, ac tempor enim pellentesque. Aliquam sagittis tortor elit, a facilisis elit accumsan dignissim.
+
+Mauris eu mi mollis, semper turpis non, rhoncus odio. Vestibulum vel viverra nisi. Nulla rhoncus eget nisl a iaculis. Integer non auctor diam. Proin felis justo, fermentum eget tellus vitae, varius malesuada massa. Mauris sagittis nibh non est maximus, at interdum magna pellentesque. Cras tristique justo odio, vel cursus ipsum tincidunt id. Suspendisse ultricies, est nec ultrices volutpat, enim ipsum hendrerit diam, vel faucibus ex libero et nisl. Suspendisse in neque eget nisl egestas finibus. Nullam a ultrices nisi. Nam accumsan tempor nunc, id sollicitudin ipsum dignissim nec.
+
+In lobortis tortor at consequat auctor. In pharetra nibh ut velit semper, id efficitur purus tincidunt. Ut finibus lectus sit amet massa vestibulum, aliquam consectetur ex ultricies. Morbi eget ipsum venenatis, facilisis leo id, maximus sapien. Sed blandit diam quis dui pretium, quis tincidunt ligula congue. Phasellus sagittis magna suscipit ex hendrerit, in porta elit dignissim. Morbi convallis leo sit amet mi eleifend pharetra. Donec elit justo, maximus vitae fermentum at, consectetur lacinia augue. Curabitur euismod tristique ullamcorper. Quisque aliquet vel mi id hendrerit. In at justo ligula. Etiam eleifend est sed tortor vehicula vulputate. Morbi bibendum augue vel urna malesuada, id faucibus lacus faucibus. Nullam a imperdiet odio. Aenean vulputate bibendum justo nec aliquet."
+                android:textSize="18dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintLeft_toLeftOf="@+id/svLicenseAgreement"
+                app:layout_constraintRight_toRightOf="@+id/svLicenseAgreement"
+                />
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

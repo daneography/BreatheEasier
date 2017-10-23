@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navMindfulness"
+            android:icon="@drawable/ic_action_cloud"
+            android:title="Mindfulness" />
+        <item
+            android:id="@+id/navDaily"
+            android:icon="@drawable/ic_action_coffee"
+            android:title="Daily" />
+        <item
+            android:id="@+id/navCommunities"
+            android:icon="@drawable/ic_people"
+            android:title="Communities" />
+        <item
+            android:id="@+id/navExercise"
+            android:icon="@drawable/ic_nature_people"
+            android:title="Exercise" />
+        <item
+            android:id="@+id/navAbout"
+            android:icon="@drawable/ic_action_info"
+            android:title="About" />
+    </group>
+
+
+
+</menu>

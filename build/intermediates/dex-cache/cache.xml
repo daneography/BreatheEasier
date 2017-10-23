@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/96afb5ca6950d41b4a36c4b544f1cfb5bbb199e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_e6dc7444e5c8fe3848151c9179ea022b35f38e67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_e37af54b452791eb5c2df2bb826f90bb677b4198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_29925bd9d44aa7cd14f52f4913841236a0785206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0_6edd85e7d023bb4bf39960899110e2b38af3a5c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/7e0aa18fa4653d72cc97ab97201113415ac01885/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_2921a5691659fa4781ea3453c1e4d80d8960808c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0_04db8bc161297fb6336c1a65d7da0acfdc591378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/okio-1.6.0_bb9b99df3132ad0ae0764617dced45db4a00dfa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/c42051cda93955ac0a60edfd19bbdade4035ece6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_9fac40477b2bbdad9d823efe89a73c69d3fcbe91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/13eb2f5e3c21cefcde83bc698a61054cdd34b5cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_7b1914926b3edf006e1cd8525c1e10f9d7529131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/df5f1775745d6fd83aaff1b14459a607edd51907/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_b18d4f8e3765d005bee2ecf8699205ea23bd0a9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/ca0a9e2666269090fbe37c5621d6f2f1921c14da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_1e2c528c7e933c51b869d73310b508fab722ff4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_99f2d34d15d82d55ee45d24d621be88cc33a3310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.6.0_bfc79ad706447b3aad21cad3c2d0784a51c19559.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/481a1fc5e9bf439ed4d3542c10b38a61d3dce6d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_e0fb7a5399dad6b46233f210a85a5229539f80ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/gson-2.6.1_7a1496773e28bad292e04faa6655ab29c7db6b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/afda5724dabc28b46e1edb0038c33a33494f28dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_e5f4a824ceedbf915b569797ac338df825ae1911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/f11b4dae2f3dc7ed2077a9fa23f99d8e771fe73c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_9a68d9ae9fa6726e4ffb0e748902eb3bafe859a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/540630227bc4346c9e82a7d3b66a0f19325cd17a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_a02e90840d38d43857a76d91a6f1b4ffb8477960.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1ff140ccc89eddefd395fb4d739ca8070137948f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b8429695a82dc167618bf5ea4cc324da48a00836">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f82a957ceab6a20d1d2f5475e87fcd222a745b38/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/3fdc0e18d1c32cae356ac09904060a5d7148f097/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_0d59d54e15438c8a3494644a30fa3651c15fac46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/a26d91da6fe1b1ecc9c3f022b0c9e2aa02aa33e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_1b63eb097dc1731d81e86769de4763cc91e8a7ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/e550784af2ae11d8a52805a54a8009d6f034fe46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_c57f2dea3f1b51ddb288c6b4613d42f5c9ed0f1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/prometheus/.android/build-cache/6e0f56d23a25c1bc5a62747c0804925630c9b10c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/prometheus/Documents/Projects/BreatheEasier2/app/build/intermediates/pre-dexed/debug/classes_a20ce98bb994fbe5a8477e5fb2701ec366db4f67.jar" />
+    </item>
+
+</items>
